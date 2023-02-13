@@ -38,6 +38,7 @@ const Illustration = styled.img`
 `
 
 function Home() {
+
   return (
     <HomeWrapper>
       <HomerContainer>
